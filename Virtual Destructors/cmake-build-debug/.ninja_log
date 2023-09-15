@@ -1,0 +1,13 @@
+# ninja log v5
+1	401	7026878263369261	CMakeFiles/Virtual_Destructors.dir/main.cpp.obj	e4d277811ad807d3
+405	532	7026878264655819	Virtual_Destructors.exe	17b8ee7f07288278
+3	324	7026878446318105	CMakeFiles/Virtual_Destructors.dir/main.cpp.obj	e4d277811ad807d3
+324	434	7026878447395220	Virtual_Destructors.exe	17b8ee7f07288278
+3	334	7026878531335650	CMakeFiles/Virtual_Destructors.dir/main.cpp.obj	e4d277811ad807d3
+334	449	7026878532462633	Virtual_Destructors.exe	17b8ee7f07288278
+3	354	7026878976627479	CMakeFiles/Virtual_Destructors.dir/main.cpp.obj	e4d277811ad807d3
+354	466	7026878977734513	Virtual_Destructors.exe	17b8ee7f07288278
+3	338	7026884089949308	CMakeFiles/Virtual_Destructors.dir/main.cpp.obj	e4d277811ad807d3
+338	467	7026884091225891	Virtual_Destructors.exe	17b8ee7f07288278
+3	315	7026886689193065	CMakeFiles/Virtual_Destructors.dir/main.cpp.obj	e4d277811ad807d3
+316	432	7026886690330019	Virtual_Destructors.exe	17b8ee7f07288278

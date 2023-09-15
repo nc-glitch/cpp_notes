@@ -1,0 +1,3 @@
+E:/C++/Learning Code/Function Pointers/cmake-build-debug/CMakeFiles/Function_Pointers.dir
+E:/C++/Learning Code/Function Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C++/Learning Code/Function Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

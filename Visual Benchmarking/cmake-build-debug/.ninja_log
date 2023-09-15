@@ -1,0 +1,17 @@
+# ninja log v5
+1	433	7027731293899848	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+437	561	7027731295146516	Visual_Benchmarking.exe	57b531af9dd3f172
+3	803	7027760236030808	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+804	1184	7027760239840613	Visual_Benchmarking.exe	57b531af9dd3f172
+3	762	7027766765062904	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+762	890	7027766766329515	Visual_Benchmarking.exe	57b531af9dd3f172
+5	703	7027767152744910	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+703	828	7027767153981597	Visual_Benchmarking.exe	57b531af9dd3f172
+4	741	7027767780336437	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+741	868	7027767781593069	Visual_Benchmarking.exe	57b531af9dd3f172
+3	691	7027768005524105	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+692	809	7027768006681007	Visual_Benchmarking.exe	57b531af9dd3f172
+3	658	7027768228527713	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+659	780	7027768229724504	Visual_Benchmarking.exe	57b531af9dd3f172
+4	658	7027768556031785	CMakeFiles/Visual_Benchmarking.dir/main.cpp.obj	9aefa15cafe915e7
+658	785	7027768557278443	Visual_Benchmarking.exe	57b531af9dd3f172
